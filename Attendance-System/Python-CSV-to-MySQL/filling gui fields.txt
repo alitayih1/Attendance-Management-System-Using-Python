@@ -1,0 +1,6 @@
+User : root
+Password : root
+Database : attendance
+Table : attendance_table
+path : C:\Users\hp\Desktop\Attendance-System\Attendance\Attendance_2019-02-19_03-12-25.csv
+Datatype for columns : int,str,str,str
